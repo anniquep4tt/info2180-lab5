@@ -70,7 +70,6 @@ button {
   background: #23958a;
 }
 
-/* For Exercise 5: give the second button the id "lookupCities" */
 #lookupCities {
   background: #3b8fd9;
 }
@@ -79,7 +78,6 @@ button {
   background: #2f78b8;
 }
 
-/* Results */
 #result {
   margin-top: 25px;
 }
